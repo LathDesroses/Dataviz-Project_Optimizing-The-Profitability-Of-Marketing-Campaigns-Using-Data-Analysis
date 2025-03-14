@@ -46,7 +46,7 @@ The data is preprocessed using **SMOTE** (Synthetic Minority Over-sampling Techn
 
 ## Data Visualization
 
-The analysis includes several visualizations to understand the model's performance and customer response patterns.
+The analysis includes several visualizations to understand the market, the model's performance and customer response patterns.
 
 ## Model Evaluation
 
