@@ -1,7 +1,3 @@
-D'accord, je vais intégrer ces points supplémentaires dans le **README** pour qu'il soit complet et bien structuré. Voici la version mise à jour avec la section **Data Visualization** et la question sur le **profit curve** :
-
----
-
 # Marketing Campaign Customer Targeting Analysis
 
 ## Description
