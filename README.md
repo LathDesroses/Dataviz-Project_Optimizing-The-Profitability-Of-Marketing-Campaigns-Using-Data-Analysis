@@ -80,6 +80,6 @@ The choice of model depends on whether the goal is to maximize total profit (Ran
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed.
 
 ---
